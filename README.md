@@ -4,13 +4,13 @@ Basic Midi Monitor for Cardputer
 This is a basic Midi Monitor software for your Cardputer. 
 It works with the SAM2695 MIDI module, and it should also with any DIY standard MIDI IN port, as long as you connect it to the cardputer the way it is supposed to be connected (with the octocoupler and all).
 You can monitor the following midi messages with it:
--Note On (NtOn)
--Note Off (NtOff)
--Control Change (CC)
--Program Change (PC)
--AfterTouch Poly (ATP)
--AfterTouch Channel (ATC)
--Pitch Bend (PB)
+- Note On (NtOn)
+- Note Off (NtOff)
+- Control Change (CC)
+- Program Change (PC)
+- AfterTouch Poly (ATP)
+- AfterTouch Channel (ATC)
+- Pitch Bend (PB)
 
 Pitch Bend messages will show the value on GREEN if positive, and on RED if negative. The rest of the messages will show YELLOW and PURPLE.
 It keeps the last SIX received messages on the screen.
