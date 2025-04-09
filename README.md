@@ -17,3 +17,4 @@ It keeps the last SIX received messages on the screen.
 There's not much to it. It doesn't do much, but as far as I've tested, it does well what it is supposed to do. A Midi Monitor tool to quickly evaluate what messages are you sending from a Midi device.
 
 Have fun :)
+![CardputerMIDI](https://github.com/user-attachments/assets/f72d5d48-adbf-42b6-a576-bef7053e6d0b)
